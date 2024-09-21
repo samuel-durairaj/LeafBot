@@ -4,8 +4,8 @@
   <test thread-count="5" name="Test" parallel="classes">
     <classes>
       <class name="com.leafBot.testcases.TC001_LoginLogOut"/>
-       <!-- Suite -->
-        <!-- Suite -->
+      <class name="com.leafBot.testcases.TC003_CreateLead"/>
+      <class name="com.leafBot.testcases.TC003_CreateLead"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
