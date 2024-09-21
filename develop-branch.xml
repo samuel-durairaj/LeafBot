@@ -5,6 +5,7 @@
     <classes>
       <class name="com.leafBot.testcases.TC001_LoginLogOut"/>
       <class name="com.leafBot.testcases.TC003_CreateLead"/>
+      <class name="com.leafBot.testcases.TC003_CreateLead"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
