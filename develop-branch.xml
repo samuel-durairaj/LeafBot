@@ -7,5 +7,5 @@
       <class name="com.leafBot.testcases.TC003_CreateLead"/>
       <class name="com.leafBot.testcases.TC003_CreateLead"/>
     </classes>
-  </test> <!-- Test -->
+  </test> <!-- Test --> <!-- Test -->
 </suite> <!-- Suite -->
