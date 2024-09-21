@@ -2,4 +2,8 @@ Demo text file changes 1
 
 Change 2
 
+
 Change 3
+
+Change 3 text change
+
